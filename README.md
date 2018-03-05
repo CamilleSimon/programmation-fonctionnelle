@@ -3,7 +3,11 @@ Master 1 2016-2017
 
 # List
 
+Le fil rouge du cours.
+
 # Queue
+
+Devoir demandé, énoncé ci-dessous.
 
 ## Introduction
 
